@@ -1,6 +1,6 @@
 # Adrian Sun's Portfolio
 
-I'm a computer scientist student at CSUF and I expect to graduate at the year 2028
+I'm a computer scientist student at CSUF and I expect to graduate at the year 2028.
 
 ## Favorite CPSC 120L Labs
 * Lab 5 Part-1
